@@ -1,0 +1,53 @@
+{
+	"format_version": "1.10.0",
+	"animations": {
+		"animation.cda003.death_setup": {
+			"animation_length": 10,
+			"loop": true,
+			"timeline": {
+				"0.0": [
+					"/scoreboard objectives add cda003:dth_cnt dummy \"Lives Left\"",
+					"/scoreboard objectives setdisplay belowname cda003:dth_cnt",
+					"/execute @s[tag=!cda003:joined] ~~~ scoreboard players set @s cda003:dth_cnt 2",
+					"/execute @s[tag=!cda003:joined] ~~~ tag @s add cda003:joined"
+				]
+			}
+		},
+		"animation.cda003.world_border.px": {
+			"animation_length": 0.1,
+			"loop": true,
+			"timeline": {
+				"0.0": [
+					"/tp ~-5~~"
+				]
+			}
+		},
+		"animation.cda003.world_border.nx": {
+			"animation_length": 0.1,
+			"loop": true,
+			"timeline": {
+				"0.0": [
+					"/tp ~5~~"
+				]
+			}
+		},
+		"animation.cda003.world_border.pz": {
+			"animation_length": 0.1,
+			"loop": true,
+			"timeline": {
+				"0.0": [
+					"/tp ~~~-5"
+				]
+			}
+		},
+		"animation.cda003.world_border.nz": {
+			"animation_length": 0.1,
+			"loop": true,
+			"timeline": {
+				"0.0": [
+					"/tp ~~~5"
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "3rd Life Add-on v1.0.0 [RP]",
+		"description": "Bedrock Add-on recreation of 3rd Life SMP\n\n§lMade by §ccda94581",
+		"uuid": "e1ed2c7f-2496-4a30-b76d-75302d98f74c",
+		"version": [ 1, 0, 0 ],
+		"min_engine_version": [ 1, 16, 0 ]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "bc51a30a-58ed-41ab-91b2-27ad0ab76f6b",
+			"version": [ 1, 0, 0 ]
+		}
+	]
+}
