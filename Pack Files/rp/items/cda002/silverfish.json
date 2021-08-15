@@ -1,12 +1,1 @@
-{
-	"format_version": "1.10.0",
-	"minecraft:item": {
-		"description": {
-			"identifier": "cda002:silverfish",
-			"category": "items"
-		},
-		"components": {
-			"minecraft:icon": "cda002_silverfish"
-		}
-	}
-}
+{"format_version":"1.10.0","minecraft:item":{"description":{"identifier":"cda002:silverfish","category":"items"},"components":{"minecraft:icon":"cda002_silverfish"}}}

@@ -10,15 +10,13 @@ many packs will not be compatible with this
 Some mobs are hidden due to many bugs as listed below
 
 WIP Reasons - https://github.com/cda94581/Community_Collabs/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9A%A0+Bug%22+label%3A%22%F0%9F%A7%9F%E2%80%8D%E2%99%82%EF%B8%8F+Cda%27s+Morph+Add-on%22
-#20 Most of Silverfish body renders incorrectly
-#80 Chicken renders incorrectly
 #81 Ender Dragon renders incorrectly
 
 You can still unlock these by running "/function cda002/", followed
 by one of the mobs listed above, replacing
 spaces with underscores _ and converting to lowercase. For example, to access
-the Silverfish, run:
-1. /function cda002/silverfish
+the Ender Dragon run:
+1. /function cda002/ender_dragon
 
 License: This pack is provided to you under the CC-BY-SA-4.0 License, which
 allows you to modify, distribute, and more as long as you give proper credit to
@@ -35,6 +33,17 @@ Known Issues - https://github.com/cda94581/Community_Collabs/issues?q=is%3Aopen+
 If you would like to help report issues, suggest features, and more, head over to https://github.com/cda94581/Community_Collabs/tree/main/Add-ons/Cda's%20Morph to see what you can do!
 
 Changelog
+v0.0.7 - 2021/08/15 (YYYY/MM/DD)
+Updated Properly for 1.17.10
+Reformatted queries and variables to save a few bytes
+Minimized final product to save space (If you want expanded version, contact me :)
+Silverfish now renders properly (#20)
+Chicken now renders properly (#80)
+Silverfish has been removed from hidden WIP mobs
+Chicken has been removed from hidden WIP mobs
+Morph activating has changed from USING the item to SNEAK & JUMP while holding the item
+Morph should now work in Multiplayer (#84)
+---
 v0.0.6 - 2021/06/16 (YYYY/MM/DD)
 Updated Properly for 1.17.0
 Added Axolotl

@@ -1,12 +1,1 @@
-{
-	"format_version": "1.10.0",
-	"minecraft:item": {
-		"description": {
-			"identifier": "cda002:rabbit",
-			"category": "items"
-		},
-		"components": {
-			"minecraft:icon": "cda002_rabbit"
-		}
-	}
-}
+{"format_version":"1.10.0","minecraft:item":{"description":{"identifier":"cda002:rabbit","category":"items"},"components":{"minecraft:icon":"cda002_rabbit"}}}
