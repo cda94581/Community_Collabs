@@ -1,1 +1,2 @@
-WIP
+# 3rd Life Add-on
+Offer any help that you feel you can offer, if you want. A list of known issues with this add-on is found [here](https://github.com/cda94581/Community_Collabs/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9A%A0+Bug%22+label%3A%223rd+Life+Add-on%22).
