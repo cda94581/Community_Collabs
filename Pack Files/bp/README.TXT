@@ -1,6 +1,6 @@
 Notice: It is possible that some mobs may break worlds. Use with caution, an extensive test world is recommended. I am not responsible for any issues.
 
-Cda's Morph Add-on brings you the morph mod from Java Edition over to Bedrock Edition. You can currently morph into any hostile mob as listed by MC Gamepedia
+Cda's Morph Add-on brings you the morph mod from Java Edition over to Bedrock Edition.
 
 THIS ADD-ON IS IN ALPHA AND MAY BE BUGGY
 
@@ -33,6 +33,59 @@ Known Issues - https://github.com/cda94581/Community_Collabs/issues?q=is%3Aopen+
 If you would like to help report issues, suggest features, and more, head over to https://github.com/cda94581/Community_Collabs/tree/main/Add-ons/Cda's%20Morph to see what you can do!
 
 Changelog
+v0.0.8 - 2021/12/24 (YYYY/MM/DD)
+Updated Properly for 1.18.0
+Added Loot Tables for the following mobs (#13):
+	Axolotl
+	Bat
+	Ender Dragon (as WIP)
+	NPC
+	Villager
+	Wandering Trader
+Added Recipes for the following mobs (#85):
+	Agent - Dirt
+	Axolotl - Water Bucket
+	Bat - Stone
+	Cat - String
+	Cave Spider - Spider Eye
+	Chicken - Feather
+	Cod - Cod
+	Cow - Leather
+	Dolphin - Cod
+	Donkey - Leather
+	Ender Dragon - Dragon Egg (You'll get it back) - Unavailable ATM
+	Enderman - Ender Pearl
+	Fox - Sweet Berry
+	Glow Squid - Glow Ink Sac
+	Goat - Stone (Temporary)
+	Horse - Leather
+	Iron Golem - Iron Ingot
+	Llama - Leather
+	Mooshroom - Leather
+	Mule - Leather
+	NPC - Dirt
+	Ocelot - String
+	Panda - Bamboo
+	Parrot - Feather
+	Pig - Porkchop
+	Piglin - Gold Nugget
+	Polar Bear - Cod
+	Pufferfish - Pufferfish
+	Rabbit - Rabbit Hide
+	Salmon - Salmon
+	Sheep - Wool
+	Skeleton Horse - Bone
+	Snow Golem - Snowball
+	Spider - Spider Eye
+	Squid - Ink Sac
+	Strider - String
+	Tropical Fish - Tropical Fish
+	Turtle - Seagrass
+	Villager - Emerald
+	Wandering Trader - Emerald
+	Wither - Nether Star (You'll get it back)
+	Zombified Piglin - Gold Nugget
+---
 v0.0.7 - 2021/08/15 (YYYY/MM/DD)
 Updated Properly for 1.17.10
 Reformatted queries and variables to save a few bytes

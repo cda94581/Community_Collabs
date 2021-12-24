@@ -241,7 +241,7 @@
 				{ "head": "q.variant == 58 ? Material.cda002_snow_golem_head" },
 				{ "*arm": "q.mark_variant == 69 ? Material.cda002_axolotl_limbs" },
 				{ "*leg": "q.mark_variant == 69 ? Material.cda002_axolotl_limbs" },
-				{ "*": "q.variant == 1 || ( q.variant != 42 && q.variant != 17 ) ? Array.materials[q.variant]" }
+				{ "*": "( q.variant == 1 || ( q.variant != 42 && q.variant != 17 ) ) ? Array.materials[q.variant]" }
 			],
 			"textures": [
 				"Array.textures[q.variant]"
@@ -494,7 +494,7 @@
 				{ "head": "q.variant == 58 ? Material.cda002_snow_golem_head" },
 				{ "*arm": "q.mark_variant == 69 ? Material.cda002_axolotl_limbs" },
 				{ "*leg": "q.mark_variant == 69 ? Material.cda002_axolotl_limbs" },
-				{ "*": "q.variant == 1 || ( q.variant != 42 && q.variant != 17 ) ? Array.materials[q.variant]" }
+				{ "*": "( q.variant == 1 || ( q.variant != 42 && q.variant != 17 ) ) ? Array.materials[q.variant]" }
 			],
 			"textures": [
 				"Array.textures[q.variant]"
@@ -757,7 +757,7 @@
 				{ "head": "q.variant == 58 ? Material.cda002_snow_golem_head" },
 				{ "*arm": "q.mark_variant == 69 ? Material.cda002_axolotl_limbs" },
 				{ "*leg": "q.mark_variant == 69 ? Material.cda002_axolotl_limbs" },
-				{ "*": "q.variant == 1 || ( q.variant != 42 && q.variant != 17 ) ? Array.materials[q.variant]" }
+				{ "*": "( q.variant == 1 || ( q.variant != 42 && q.variant != 17 ) ) ? Array.materials[q.variant]" }
 			],
 			"textures": [
 				"Array.textures[q.variant]"
