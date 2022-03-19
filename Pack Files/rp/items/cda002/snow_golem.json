@@ -1,12 +1,1 @@
-{
-	"format_version": "1.10.0",
-	"minecraft:item": {
-		"description": {
-			"identifier": "cda002:snow_golem",
-			"category": "items"
-		},
-		"components": {
-			"minecraft:icon": "cda002_snow_golem"
-		}
-	}
-}
+{"format_version":"1.10.0","minecraft:item":{"description":{"identifier":"cda002:snow_golem","category":"items"},"components":{"minecraft:icon":"cda002_snow_golem"}}}

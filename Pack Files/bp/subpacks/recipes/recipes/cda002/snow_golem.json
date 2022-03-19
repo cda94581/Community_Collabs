@@ -1,18 +1,1 @@
-{
-	"format_version": "1.12.0",
-	"minecraft:recipe_shapeless": {
-		"description": {
-			"identifier": "cda002:snow_golem"
-		},
-		"tags": [ "crafting_table" ],
-		"ingredients": [
-			{
-				"item": "minecraft:snowball",
-				"count": 1
-			}
-		],
-		"result": {
-			"item": "cda002:snow_golem"
-		}
-	}
-}
+{"format_version":"1.12.0","minecraft:recipe_shapeless":{"description":{"identifier":"cda002:snow_golem"},"tags":["crafting_table"],"ingredients":[{"item":"minecraft:snowball","count":1}],"result":{"item":"cda002:snow_golem"}}}

@@ -1,12 +1,1 @@
-{
-	"format_version": "1.10.0",
-	"minecraft:item": {
-		"description": {
-			"identifier": "cda002:bat",
-			"category": "items"
-		},
-		"components": {
-			"minecraft:icon": "cda002_bat"
-		}
-	}
-}
+{"format_version":"1.10.0","minecraft:item":{"description":{"identifier":"cda002:bat","category":"items"},"components":{"minecraft:icon":"cda002_bat"}}}
