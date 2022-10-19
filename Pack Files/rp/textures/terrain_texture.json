@@ -1,9 +1,0 @@
-{
-	"resource_pack_name": "cda001",
-	"texture_name": "atlas.terrain",
-	"texture_data": {
-		"cda001_chunk_loader_block": {
-			"textures": "textures/cda001/block"
-		}
-	}
-}
