@@ -1,14 +1,15 @@
 # Community Collabs
 
-Oh hai there! I assume you want to help me with stuff 'n' things that I release on my channel, huh? If you find anything you can help with, feel free to open an issue, fork the repository, or whatever, and let me know!
+## **HEADS UP**
+These projects have moved to their own individual repositories:
 
-## Collaborations
-You are free to collaborate on the following:
+- [Cda's Morph](https://github.com/cda94581/cdas-morph)
+- [Open Source Chunk Loaders](https://github.com/cda94581/open-source-chunk-loaders)
+- [3rd Life Add-on](https://github.com/cda94581/3rd-life-add-on)
 
-### Add-ons
-- [Cda's Morph](https://github.com/cda94581/Community_Collabs/tree/Add-ons/cda002)
-- [Open Source Chunk Loaders](https://github.com/cda94581/Community_Collabs/tree/Add-ons/cda001)
-- [3rd Life Add-on](https://github.com/cda94581/Community_Collabs/tree/Add-ons/cda003)
+### Why?
+Mostly for easier organization of projects. Having multiple projects condensed into one repository resulted in inconveniences and disorganization when it comes to managing and separating stuff, especially issues and bugs.
 
-## License
-The main branch of this repository is available under the MIT License. Licenses for other branches will vary.
+Another thing is the planned move to put all releases on Github, making for a much nicer end-user experience when compared with Mediafire. I'd also like to setup more workflows and just make everything much more optimized.
+
+Until further notice, this repository is becoming a public archive.
